@@ -1,0 +1,22 @@
+{
+  "name": "playground-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christofferartmannmrf/playground-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christofferartmannmrf/playground-sandbox/issues"
+  },
+  "homepage": "https://github.com/christofferartmannmrf/playground-sandbox#readme",
+  "devDependencies": {
+    "@flowcards/core": "^0.15.2"
+  }
+}
